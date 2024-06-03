@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "typescript": "^5.4.5",
+    "zod": "^3.23.8"
+  },
+  "name": "@kumar_sahil/zodvalidation",
+  "version": "1.0.0",
+  "description": "creating zod validation for frontend and backedn ",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
